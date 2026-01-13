@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 # K8S Network Test Daemonset
 
 ## Description
